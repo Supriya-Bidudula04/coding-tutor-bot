@@ -1,0 +1,5 @@
+crewai
+langchain_groq
+langchain-huggingface
+streamlit
+python-dotenv
