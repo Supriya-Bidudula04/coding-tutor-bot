@@ -40,14 +40,3 @@ This application uses a **Multi-Agent Architecture** powered by **Groq (Llama 3.
    ```bash
    git clone https://github.com/YOUR_USERNAME/your-repo-name.git
    cd your-repo-name
-Install dependencies:
-code
-Bash
-pip install -r requirements.txt
-Get a Groq API Key:
-Sign up at console.groq.com
-Create an API key.
-Run the Application:
-code
-Bash
-streamlit run app.py
